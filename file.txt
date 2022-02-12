@@ -3,3 +3,5 @@ this file is an example.
 this file is now without bugs.
 
 this change is made from Dev branch.
+
+this line is also made in dev for merge commit purposes.
