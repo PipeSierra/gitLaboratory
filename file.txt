@@ -6,4 +6,6 @@ this change is made from Dev branch.
 
 this line is also made in dev for merge commit purposes.
 
-adding another line to make a commit comment in the merge process
+adding another line to make a commit comment in the merge process.
+
+this line is a conflict.
