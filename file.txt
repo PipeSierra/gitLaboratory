@@ -5,3 +5,5 @@ this file is now without bugs. ¡awesome!
 this change is made from Dev branch.
 
 this line is also made in dev for merge commit purposes.
+
+adding another line to make a commit comment in the merge process
