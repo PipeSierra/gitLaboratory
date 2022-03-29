@@ -10,4 +10,6 @@ adding another line to make a commit comment in the merge process.
 
 this line is going to generate a conflict in merge.
 
-change in develop branch
+change in develop branch.
+
+change from feature.
