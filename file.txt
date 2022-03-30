@@ -13,3 +13,5 @@ this line is going to generate a conflict in merge.
 change in develop branch.
 
 change from feature.
+
+change in dev for conflict.
